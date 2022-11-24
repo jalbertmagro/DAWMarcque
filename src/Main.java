@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args)
-    {
+    {Hola marc
         Scanner sc=new Scanner(System.in);
 
         int opcion,i, longitud;
